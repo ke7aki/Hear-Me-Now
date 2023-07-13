@@ -24,15 +24,4 @@ Kotlin-based Assitive Android Application Technology News App helps users stay u
  * Android Studio
  * Third party libraries like [retrofit](https://square.github.io/retrofit/), [picasso](https://square.github.io/picasso/), [shimmer](https://github.com/facebook/shimmer-android).
 
-
-
-
-
-
-
-
-
-
-
-
-
+Please feel free to submit issues with any bugs or other unforseen issues you experience.
